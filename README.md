@@ -1,2 +1,3 @@
 # TTS-JS
 rock-paper-.....
+This project is a Rock-Paper-Scissor Game. Enjoy!! :)
